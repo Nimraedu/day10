@@ -11,9 +11,9 @@ function App() {
 
   return (
     <>
-      <InteractiveComponent />
+      {/* <InteractiveComponent /> */}
       {/* <MasterComponents /> */}
-    <MasterComponent/>
+    <MasterComponent />
     </>
   )
 }
